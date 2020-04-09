@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-auto-import-externals-master",
+  "version": "0.0.1",
+  "author": "mayako <freedom21126@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mayako21126/babel-plugin-auto-import-externals-master.git"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ]
+}
